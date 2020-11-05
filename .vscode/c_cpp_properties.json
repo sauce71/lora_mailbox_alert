@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "/Users/tom/Library/Arduino15/packages/esp32/tools/**",
+                "/Users/tom/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/**",
+                "${workspaceFolder}/**",
+                "/Users/tom/Documents/Arduino/libraries/**",
+                "/Applications/Arduino.app/Contents/Java/libraries/**",
+                "/Users/tom/Library/Arduino15/packages/esp32/hardware/esp32/1.0.4/libraries/SPI/src"
+            ],
+            "defines": [],
+            "macFrameworkPath": [
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks"
+            ],
+            "compilerPath": "/usr/bin/clang",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
